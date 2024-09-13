@@ -1,5 +1,6 @@
 let favActorFirstName = "Tom";
 let favActorLastName = "Holland";
+
 //Concatenate
 let fullName = favActorFirstName + ' ' + favActorLastName;
 
@@ -9,6 +10,8 @@ let lowercase =  "GINGER";
 
 //MESSAGE
 let message = "My favorite actor is " + fullName.toUpperCase();
+
+//APPEND
 message += " His best show is Silicon Valley";
 
 //OUTPUT
